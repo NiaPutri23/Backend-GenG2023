@@ -1,5 +1,5 @@
-Meet 1 : 18 December 2023
-![ahdja](image.png)
+# Meet 1: 18 December 2023
+
 Front-End 
 Back-End 
 Website
